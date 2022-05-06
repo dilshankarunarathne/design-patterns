@@ -19,7 +19,7 @@ This book contains 23 popular design patterns, which are formerly known as
 * Behavioural   
   Interaction & communication between objects
 
-These three categories or those **Gang-of-Four patterns** don't represent 
+These three categories or those _**Gang-of-Four patterns**_ don't represent 
 all the design patterns in the world. There are other undocumented or less 
 popular design patterns.  
 
