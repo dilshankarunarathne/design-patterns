@@ -24,4 +24,4 @@ all the design patterns in the world. There are other undocumented or less
 popular design patterns.  
 
 These design patterns help us communicate with other developers in a more 
-abstract level. Sometimes we can just 
+abstract level. Sometimes we can just use the name of the pattern 
