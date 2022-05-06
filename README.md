@@ -12,7 +12,10 @@ Erich Gamma, Richard Helm, John Vlissides, Ralph Johnson
 
 This book contains 23 popular design patterns, which are formerly known as 
 **Gang-of-Four patterns**. These patterns are divided into three categories.  
-* Creational
-* Structural
-* Behavioural
+* Creational  
+    Different ways to create objects
+* Structural  
+    Relationships between objects
+* Behavioural   
+    Interaction & communication between objects
 
