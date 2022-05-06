@@ -1,5 +1,5 @@
 # Design Patterns
-The Art of Designing Object-Oriented Software
+**_The Art of Designing Object-Oriented Software_**
 
 ### What are design patterns ?
 They are an elegant solution to a repeating problem in software design.  
