@@ -6,3 +6,4 @@ to **undo** any change that was made to the object at any time.
 Editor
     private String content;
     public String getContent();
+    public void setContent(String newContent);
