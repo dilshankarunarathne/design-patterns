@@ -29,4 +29,5 @@ communicate an idea or an improvement.
 
 Understanding design patterns helps us create **reusable**, **extensible** and 
 **maintainable** software, no matter what programming language we use or 
-what kind of application we build. 
+what kind of application we build.  
+
