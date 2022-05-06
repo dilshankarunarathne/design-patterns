@@ -31,3 +31,4 @@ Understanding design patterns helps us create **reusable**, **extensible** and
 **maintainable** software, no matter what programming language we use or 
 what kind of application we build.  
 
+These design patterns are extensively used in frameworks and libraries. 
