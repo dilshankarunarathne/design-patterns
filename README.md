@@ -49,4 +49,4 @@ change the tire that has a flat. We don't need to change all the other tires, or
 any other parts of the car.  
 So, the car is a **_loosely-coupled_** system.  
 
-Our applications should be the same way. 
+Our applications should be the same way. Interfaces can be used to build losely-coupled classes. 
