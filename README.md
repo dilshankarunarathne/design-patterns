@@ -52,4 +52,4 @@ So, the car is a **_loosely-coupled_** system.
 Our applications should be the same way. **Interfaces** can be used to build 
 loosely-coupled classes.  
 
-An interface is a contract that specifies the c
+An interface is a contract that specifies the capabilites that 
