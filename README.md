@@ -43,3 +43,4 @@ Coupling in OOP refers to, how much a class is dependent on another class.
 Think of a time, where we have a class named X. And we instantiate an X
 object in another class called Y.  
 So, the Y class depends on X class. 
+If we make a change in X, both X and Y might have to be changed, and re-compiled.  
