@@ -29,3 +29,4 @@ communicate an idea or an improvement.
 
 Understanding design patterns helps us create **reusable**, **extensible** and 
 **maintainable** software.  
+No matter what programming language we use 
