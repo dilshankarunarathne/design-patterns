@@ -27,4 +27,5 @@ These design patterns help us communicate with other developers in a more
 abstract level. Sometimes we can just use the name of the pattern to 
 communicate an idea or an improvement.  
 
-Understanding design patterns helps us create reusable, extensible and maintainable software.  
+Understanding design patterns helps us create reusable, extensible and 
+maintainable software.  
