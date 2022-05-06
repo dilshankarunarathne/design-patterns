@@ -40,5 +40,5 @@ just the same. They make it easier to understand new concepts of programming.
 
 ### Coupling
 Coupling in OOP refers to, how much a class is dependent on another class.  
-Think of a time, where we have a class named Person. And we instantiate a person
-object in another class. So, the 
+Think of a time, where we have a class named X. And we instantiate a person
+object in another class called X. So, the 
