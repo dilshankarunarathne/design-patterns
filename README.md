@@ -25,4 +25,6 @@ popular design patterns.
 
 These design patterns help us communicate with other developers in a more 
 abstract level. Sometimes we can just use the name of the pattern to 
-communicate an idea or an improvement. 
+communicate an idea or an improvement.  
+
+Understanding 
