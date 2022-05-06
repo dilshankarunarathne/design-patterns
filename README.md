@@ -33,4 +33,4 @@ what kind of application we build.
 
 These design patterns are extensively used in frameworks and libraries. 
 So, even though they might have different syntax, the patterns are 
-just the same. 
+just the same. They make it easier to understand new concepts of programming.  
