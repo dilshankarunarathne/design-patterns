@@ -13,4 +13,5 @@ Erich Gamma, Richard Helm, John Vlissides, Ralph Johnson
 This book contains 23 design patterns in three categories.  
 * Creational
 * Structural
-* 
+* Behavioural
+
