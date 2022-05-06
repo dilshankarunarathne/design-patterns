@@ -28,4 +28,4 @@ abstract level. Sometimes we can just use the name of the pattern to
 communicate an idea or an improvement.  
 
 Understanding design patterns helps us create **reusable**, **extensible** and 
-maintainable software.  
+**maintainable** software.  
