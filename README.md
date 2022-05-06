@@ -10,3 +10,4 @@ Elements of Reusable Object-Oriented Software (1994)
 by the Gang-of-Four  
 Erich Gamma, Richard Helm, John Vlissides, Ralph Johnson  
 
+This book contains 23 design patterns 
