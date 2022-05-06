@@ -38,7 +38,7 @@ These design patterns are extensively used in frameworks and libraries.
 So, even though they might have different syntax, the patterns are 
 just the same. They make it easier to understand new concepts of programming.  
 
-### Coupling
+### Coupling and Interfaces
 Coupling in OOP refers to, how much a class is dependent on another class. 
 Think of a time, where we have a class named X. And we instantiate an X
 object in another class called Y. So, the Y class depends on X class. 
@@ -49,4 +49,5 @@ change the tire that has a flat. We don't need to change all the other tires, or
 any other parts of the car.  
 So, the car is a **_loosely-coupled_** system.  
 
-Our applications should be the same way. Interfaces can be used to build loosely-coupled classes. 
+Our applications should be the same way. **Interfaces** can be used to build 
+loosely-coupled classes. 
