@@ -23,4 +23,4 @@ These three categories or those _**Gang-of-Four patterns**_ don't represent
 all the design patterns in the world. There are other undocumented or less 
 popular design patterns.  
 
-These design patterns help us communicate  
+These design patterns help us communicate with other developers  
