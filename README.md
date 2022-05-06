@@ -39,4 +39,4 @@ So, even though they might have different syntax, the patterns are
 just the same. They make it easier to understand new concepts of programming.  
 
 ### Coupling
-Coupling in OOP refers to, how much a class is dependant 
+Coupling in OOP refers to, how much a class is dependant on 
