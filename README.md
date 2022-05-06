@@ -45,4 +45,5 @@ object in another class called Y.
 So, the Y class depends on X class. 
 If we make a change in X, both X and Y might have to be changed, and re-compiled.  
 For an example, think of a car. If we get a flat tire, we would only have to 
-change the tire that has a flat. We don't need to 
+change the tire that has a flat. We don't need to change all the other tires, or
+any other parts of the car. 
