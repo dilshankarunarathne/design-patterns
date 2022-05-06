@@ -15,7 +15,7 @@ This book contains 23 popular design patterns, which are formerly known as
 * Creational  
   Different ways to create objects
 * Structural  
-    Relationships between objects
+    
 * Behavioural   
     Interaction & communication between objects
 
