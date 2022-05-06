@@ -27,4 +27,4 @@ These design patterns help us communicate with other developers in a more
 abstract level. Sometimes we can just use the name of the pattern to 
 communicate an idea or an improvement.  
 
-Understanding 
+Understanding design patterns helps us create 
