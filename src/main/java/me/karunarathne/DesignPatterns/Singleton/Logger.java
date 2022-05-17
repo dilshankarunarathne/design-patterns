@@ -6,7 +6,7 @@ public class Logger {
     private Logger () {
     }
 
-    public Logger getInstance () {
+    public static Logger getInstance () {
         if (logger == null) {
             logger = new Logger() ;
         }
