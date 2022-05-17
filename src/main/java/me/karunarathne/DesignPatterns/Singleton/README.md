@@ -3,4 +3,4 @@
 If we want a class to have only one object we can use this pattern.  
 Objects that are used for logging, device drivers for printers or registry settings
 need to have only one of a kind.  
-If there are multiple objects, we may encounter 
+If there are multiple objects, we may encounter problems like 
