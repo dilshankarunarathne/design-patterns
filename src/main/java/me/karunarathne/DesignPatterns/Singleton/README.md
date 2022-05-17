@@ -5,3 +5,4 @@ Objects that are used for logging, device drivers for printers or registry setti
 need to have only one of a kind.  
 If there are multiple objects, we may encounter problems like incorrect program
 behavior, inconsistent results, etc. 
+
