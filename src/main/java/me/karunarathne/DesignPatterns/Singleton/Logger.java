@@ -1,7 +1,7 @@
 package me.karunarathne.DesignPatterns.Singleton;
 
 public class Logger {
-    private Logger logger ;
+    private static Logger logger ;
 
     private Logger () {
     }
