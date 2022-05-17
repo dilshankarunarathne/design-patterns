@@ -12,7 +12,7 @@ and pass it using a `getInstance()` static method.
 
 
 
-    private static Resource logger ;
+    private static Resource resource ;
 
     private Logger () {
     }
