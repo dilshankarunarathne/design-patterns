@@ -4,7 +4,6 @@ public class Logger {
     private Logger logger ;
 
     private Logger () {
-
     }
 
     public Logger getInstance () {
