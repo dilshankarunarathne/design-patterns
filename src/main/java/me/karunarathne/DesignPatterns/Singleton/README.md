@@ -18,7 +18,7 @@ and pass it using a `getInstance()` static method.
     }
 
     public static Resource getInstance () {
-        if (logger == null) {
+        if (resource == null) {
             logger = new Resource() ;
         }
         return logger ;
