@@ -7,5 +7,9 @@ public class Logger {
 
     }
 
-    public Logger getInstance ()
+    public Logger getInstance () {
+        if (logger == null) {
+            
+        }
+    }
 }
