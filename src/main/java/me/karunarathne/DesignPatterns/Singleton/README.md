@@ -19,7 +19,7 @@ and pass it using a `getInstance()` static method.
 
     public static Resource getInstance () {
         if (logger == null) {
-            logger = new Logger() ;
+            logger = new Resource() ;
         }
         return logger ;
     }
