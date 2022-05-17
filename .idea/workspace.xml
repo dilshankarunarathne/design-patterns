@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="21801fd7-e1d2-421a-a1b1-43c0ad2ea66e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/me/karunarathne/DesignPatterns/Singleton/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/karunarathne/DesignPatterns/Singleton/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="21801fd7-e1d2-421a-a1b1-43c0ad2ea66e" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,12 +34,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "WebServerToolWindowFactoryState": "false",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -52,7 +53,7 @@
       <updated>1651809081889</updated>
       <workItem from="1651809086110" duration="3494000" />
       <workItem from="1651828001733" duration="2218000" />
-      <workItem from="1652768772886" duration="184000" />
+      <workItem from="1652768772886" duration="431000" />
     </task>
     <servers />
   </component>
