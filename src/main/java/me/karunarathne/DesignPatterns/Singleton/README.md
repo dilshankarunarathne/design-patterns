@@ -21,6 +21,6 @@ and pass it using a `getInstance()` static method.
         if (resource == null) {
             resource = new Resource() ;
         }
-        return logger ;
+        return resource ;
     }
 
