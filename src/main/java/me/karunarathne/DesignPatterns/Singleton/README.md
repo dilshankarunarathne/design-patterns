@@ -9,3 +9,18 @@ behavior, inconsistent results, etc.
 We can create our resource class with a private constructor. 
 And when we need to instantiate it, we can have a single static instance 
 and pass it using a `getInstance()` static method. 
+
+
+
+    private static Logger logger ;
+
+    private Logger () {
+    }
+
+    public static Logger getInstance () {
+        if (logger == null) {
+            logger = new Logger() ;
+        }
+        return logger ;
+    }
+
