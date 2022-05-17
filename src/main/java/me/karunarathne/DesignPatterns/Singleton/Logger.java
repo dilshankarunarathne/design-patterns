@@ -9,7 +9,7 @@ public class Logger {
 
     public Logger getInstance () {
         if (logger == null) {
-            
+            logger = new Logger() ;
         }
     }
 }
