@@ -7,4 +7,5 @@ If there are multiple objects, we may encounter problems like incorrect program
 behavior, inconsistent results, etc. 
 
 We can create our resource class with a private constructor. 
-And when we need to instantiate it, 
+And when we need to instantiate it, we can have a single static instance 
+and pass it using a `getInstance()` static method. 
