@@ -53,3 +53,4 @@ Our applications should be the same way. **Interfaces** can be used to build
 loosely-coupled classes.  
 
 An interface is a contract that specifies the capabilities that a class should provide. 
+
